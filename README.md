@@ -12,12 +12,12 @@ Instructions:
 
 > Nutzen Sie den Spielautomaten (mit Enter):
 
---- Ergebnis ---
----------------------
-| Pronomen   | Verb       | Objekt          |
----------------------
-| er         | fahren    | der Zug         |
----------------------
+`--- Ergebnis ---`
+`---------------------`
+`| Pronomen   | Verb       | Objekt          |`
+`---------------------`
+`| er         | fahren    | der Zug         |`
+`---------------------`
 
 > Und erledigen Sie einen Satz mit dem Ergebnis und dem Possessivpronomen:
 
