@@ -1,6 +1,6 @@
 This is a very short slot machine game. You can adapt it to your needs.
 
-Why did I do that? Because there is no slot machine for leaarning purpose in Internet. Just Random wheels, and they don't work for this purpose.
+Why did I make that? Because there is no slot machine for leaarning purpose in Internet. Just Random wheels, and they don't work for this purpose.
 
 
 
